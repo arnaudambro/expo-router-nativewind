@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        // Poppins_600SemiBold: "Poppins_600SemiBold",
+        Poppins_600SemiBold: "Poppins_600SemiBold",
         // Poppins: "Poppins_600SemiBold",
       },
     },
